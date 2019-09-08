@@ -1,0 +1,27 @@
+{
+  "name": "rxjs",
+  "version": "1.0.0",
+  "description": "rxjs basics",
+  "main": "index.js",
+  "dependencies": {
+    "rxjs": "^6.5.3",
+    "webpack-cli": "^3.3.8"
+  },
+  "devDependencies": {
+    "webpack": "^4.39.3"
+  },
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhilgrag/rxjs.git"
+  },
+  "author": "Nikhil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhilgrag/rxjs/issues"
+  },
+  "homepage": "https://github.com/nikhilgrag/rxjs#readme"
+}
