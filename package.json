@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "rxjs": "^6.5.3",
-    "webpack-cli": "^3.3.8"
+    "webpack-cli": "^3.3.12"
   },
   "devDependencies": {
     "webpack": "^4.39.3"
