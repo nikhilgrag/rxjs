@@ -5,10 +5,10 @@
   "main": "index.js",
   "dependencies": {
     "rxjs": "^6.5.3",
-    "webpack-cli": "^3.3.8"
+    "webpack-cli": "^5.0.1"
   },
   "devDependencies": {
-    "webpack": "^4.39.3"
+    "webpack": "^5.75.0"
   },
   "scripts": {
     "build": "webpack",
